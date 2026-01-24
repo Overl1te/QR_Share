@@ -1,0 +1,6 @@
+qrcode 
+colorama
+pyinstaller
+pillow
+customtkinter
+packaging
