@@ -1,5 +1,5 @@
 #define MyAppName "QR_Share"
-#define MyAppVersion "1.0"
+#define MyAppVersion "1.1"
 #define MyAppPublisher "Overl1te"
 #define MyAppURL "https://github.com/Overl1te/QR_Share"
 #define MyAppExeName "main.exe"
@@ -22,6 +22,7 @@ OutputBaseFilename=QR_Share_Setup
 SolidCompression=yes
 WizardStyle=modern dynamic
 PrivilegesRequired=admin
+ChangesAssociations=yes
 
 [Languages]
 Name: "english"; MessagesFile: "compiler:Default.isl"
